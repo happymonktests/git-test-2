@@ -1,0 +1,2 @@
+###########################
+Just open a index.html if any thing seems broken make sure the CSS and JS file are in place.
